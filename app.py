@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-# In-memory user storage (user_id as key)
+# In-memory user storage
 users = {}
 
 # Home route
@@ -45,7 +45,7 @@ def update_user(user_id):
     else:
         return jsonify({"error": "User not found"}), 404
 
-# DELETE - Remove a user
+# DELETE - Remove  user
 @app.route("/users/<user_id>", methods=["DELETE"])
 def delete_user(user_id):
     if user_id in users:
