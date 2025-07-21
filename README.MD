@@ -28,7 +28,7 @@ It is a simple REST API built using Flask to manage user data.
 ![GET Users](get-users.png)
 
 ### 🔹 POST /users
-![POST User](post-user.png)
+![POST User](post-user.png.png)
 
 ### 🔹 PUT /users/1
 ![PUT User](put-user.png)
