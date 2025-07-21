@@ -25,13 +25,13 @@ It is a simple REST API built using Flask to manage user data.
 ##  Postman Testing Screenshots
 
 ### 🔹 GET /users
-![GET Users](get-users.png)
+![GET Users](get-users.png.png)
 
 ### 🔹 POST /users
 ![POST User](post-user.png.png)
 
 ### 🔹 PUT /users/1
-![PUT User](put-user.png)
+![PUT User](put-user.png.png)
 
 ### 🔹 DELETE /users/1
-![DELETE User](delete-user.png)
+![DELETE User](delete-user.png.png)
