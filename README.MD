@@ -22,7 +22,7 @@ It is a simple REST API built using Flask to manage user data.
 
 ##  Endpoints Example
 
-## 📷 Postman Testing Screenshots
+##  Postman Testing Screenshots
 
 ### 🔹 GET /users
 ![GET Users](get-users.png)
